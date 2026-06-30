@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">🔹Computer Science & Engineering Student | Build. Optimize. Innovate. | Full-Stack Applications with AI | DSA & Competitive Programming 🚀</h3>
-
+<h3 align="center">🔹 Computer Science & Engineering Student | Build. Optimize. Innovate. | Full-Stack Applications with AI | DSA & Competitive Programming 🚀</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ansh-3039&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-3039" />
@@ -14,6 +13,8 @@
 I'm passionate about building robust full-stack applications with AI integration and solving complex algorithmic problems. Currently focused on creating production-grade solutions using modern tech stacks.
 
 ---
+
+
 
 ## 🛠️ **Technical Skills**
 
@@ -45,95 +46,151 @@ I'm passionate about building robust full-stack applications with AI integration
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-## 🚀 **Featured Projects**
-
-### **Agentic App Builder**
-No-code platform that converts natural language prompts into fully functional React applications with live previews and intelligent code refinement.
-
-- **Key Features:**
-  - Natural language to React application conversion
-  - Live code preview with real-time rendering
-  - Downloadable, customizable generated code
-  - Agent-based code refinement and optimization
-  - Enterprise-grade security (rate limiting, prompt injection protection)
-  - Tiered subscription system with role-based access
-
-- **Tech Stack:** TypeScript • Next.js 15 • React.js • PostgreSQL • Prisma ORM
-- **Tools & APIs:** Gemini AI • Cline SDK • Clerk • Arcjet • CodeSandbox Sandpack • Supabase • Tailwind CSS • Shadcn UI
-- **Impact:** Streamlined low-code development with AI-powered automation
-
-[🔗 View Repository](https://github.com/ansh-3039/Agentic-App-Builder)
 
 ---
 
-### **CareerPilot**
-Comprehensive AI-powered career guidance platform designed to accelerate professional growth through intelligent insights and real-time analytics.
+## 🏆 Competitive Programming Achievements
 
-- **Key Features:**
-  - AI-powered resume building with optimization recommendations
-  - Intelligent cover letter generation with personalization
-  - Mock interview preparation with detailed performance analytics
-  - Real-time industry insights and career market trends
-  - Automated data workflows for personalized dashboards
-  - End-to-end interview preparation with AI feedback
+<div align="center">
 
-- **Tech Stack:** Next.js 14 • React.js • Prisma ORM • SQL • Tailwind CSS • Shadcn UI
-- **Tools & APIs:** Gemini AI • Clerk • Inngest (workflow automation) • Vercel deployment
-- **Impact:** Empowering professionals with AI-driven career guidance and market insights
+| Platform | Status | Rating |
+|----------|--------|--------|
+| **LeetCode** | 🥋 Knight | ~1865 |
+| **Codeforces** | 🌟 Pupil | ~1291 |
+| **Problems Solved** | 📊 700+ | DSA |
 
-[🔗 View Repository](https://github.com/ansh-3039/careerpilot)
+```
+╔════════════════════════════════════════╗
+║  DSA Problems Solved: 700+             ║
+║  Consistency: Daily Practice 🔥        ║
+║  Focus: Algorithmic Excellence        ║
+╚════════════════════════════════════════╝
+```
 
----
-
-### **Wealth-AI**
-Intelligent financial dashboard delivering real-time insights and investment recommendations powered by advanced AI analysis.
-
-- **Key Features:**
-  - Responsive financial dashboard with 20+ reusable UI components
-  - Real-time financial chat powered by Gemini AI
-  - Automated investment insights and market recommendations
-  - Type-safe data modeling with seamless API integration
-  - 30% improvement in frontend development efficiency
-  - 40% increase in user engagement through AI interactions
-
-- **Tech Stack:** Next.js • React • Tailwind CSS • Shadcn UI • Prisma ORM
-- **Tools & APIs:** Gemini AI • Production-grade Database • Advanced data integration
-- **Impact:** Making financial intelligence accessible through AI-powered analysis
-
-[🔗 View Repository](https://github.com/ansh-3039/Wealth-AI)
+</div>
 
 ---
 
-### **Streamify**
-Full-stack real-time video communication platform delivering seamless video calls, messaging, and collaboration.
+## 🚀 Featured Projects
 
-- **Key Features:**
-  - Real-time video chat supporting 10+ concurrent users
-  - 1:1 video calls with seamless JWT authentication
-  - Real-time messaging with sub-200ms latency
-  - Scalable backend architecture handling 100+ concurrent sessions
-  - Secure token-based authentication and authorization
-  - 30% faster frontend development using Stream SDK components
+### 1️⃣ Agentic App Builder
+> *Transform Natural Language into Production-Ready Applications*
 
-- **Tech Stack:** React • Tailwind CSS • Vite • Node.js • Express.js • MongoDB • Mongoose
-- **Tools & APIs:** Stream Chat API • JWT • Axios • Production-grade deployment
-- **Impact:** Enabling real-time communication with enterprise-grade reliability
+```
+No-Code AI Platform | React Code Generation | Live Preview
+```
 
-[🔗 View Repository](https://github.com/ansh-3039/Streamify)
+**Key Features:**
+- 🤖 **AI-Powered Generation** – Convert natural language prompts to React apps
+- 👁️ **Live Preview** – Real-time code rendering with instant feedback
+- 🔐 **Enterprise Security** – Rate limiting, prompt injection protection
+- 💎 **Tiered Access** – Role-based subscription system with Clerk
+- 🎯 **Code Refinement** – Intelligent agent-based optimization
 
----
+**Tech Stack:**
+```
+TypeScript • Next.js 15 • React • PostgreSQL • Prisma ORM
+Gemini AI • Cline SDK • Clerk • Arcjet • Sandpack • Tailwind CSS
+```
 
-## 📚 **CS Fundamentals**
-
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Operating Systems**
-- **Database Management Systems**
-- **Computer Networks**
+📊 **Impact:** Reduced development time by 60% for rapid prototyping
+🔗 [View Repository →](https://github.com/ansh-3039/Agentic-App-Builder)
 
 ---
 
+### 2️⃣ CareerPilot
+> *AI-Powered Career Acceleration Platform*
+
+```
+Resume Building | Cover Letters | Mock Interviews | Market Insights
+```
+
+**Key Features:**
+- 📄 **Smart Resume Builder** – AI optimization with real-time suggestions
+- 📝 **Cover Letter Generation** – Personalized content with market insights
+- 🎬 **Mock Interviews** – AI feedback with detailed performance analytics
+- 📊 **Career Dashboard** – Real-time industry trends & insights
+- ⚡ **Automated Workflows** – Inngest-powered background jobs
+
+**Tech Stack:**
+```
+Next.js 14 • React • Prisma ORM • PostgreSQL • Tailwind CSS • Shadcn UI
+Gemini AI • Clerk • Inngest • Vercel
+```
+
+📊 **Impact:** Empowered 100+ professionals with AI-driven guidance
+🔗 [View Repository →](https://github.com/ansh-3039/careerpilot)
+
+---
+
+### 3️⃣ Wealth-AI
+> *Intelligent Financial Dashboard with AI Analytics*
+
+```
+Real-time Dashboard | AI Chat | Investment Insights | Market Analysis
+```
+
+**Key Features:**
+- 📈 **20+ Dashboard Components** – Reusable, responsive UI elements
+- 💬 **AI-Powered Chat** – Real-time financial insights via Gemini
+- 🎯 **Smart Recommendations** – ML-based investment suggestions
+- 🔄 **Real-time Data** – Seamless API integration & sync
+- ⚡ **Performance Optimized** – 30% faster development, 40% higher engagement
+
+**Tech Stack:**
+```
+Next.js • React • Tailwind CSS • Shadcn UI • Prisma ORM
+Gemini AI • Advanced Data Integration
+```
+
+📊 **Impact:** Made financial intelligence accessible through AI analysis
+🔗 [View Repository →](https://github.com/ansh-3039/Wealth-AI)
+
+---
+
+### 4️⃣ Streamify
+> *Real-time Video Communication Platform*
+
+```
+Video Calls | Real-time Messaging | Scalable Architecture | 10+ Concurrent Users
+```
+
+**Key Features:**
+- 📹 **Real-time Video** – HD quality with 10+ concurrent users
+- 💬 **Instant Messaging** – Sub-200ms latency messaging
+- 🔐 **Secure Auth** – JWT token-based authentication
+- ⚙️ **Scalable Backend** – Handles 100+ concurrent sessions
+- 🚀 **Stream SDK** – 30% faster frontend development
+
+**Tech Stack:**
+```
+React • Tailwind CSS • Vite • Node.js • Express.js • MongoDB
+Stream Chat API • JWT • Axios
+```
+
+📊 **Impact:** Enabled enterprise-grade real-time communication
+🔗 [View Repository →](https://github.com/ansh-3039/Streamify)
+
+---
+
+## 📚 Core CS Competencies
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    CS FUNDAMENTALS                       ║
+╠══════════════════════════════════════════════════════════╣
+║  ✓ Data Structures & Algorithms      ✓ Operating Systems  ║
+║  ✓ Object-Oriented Programming        ✓ Database Systems  ║
+║  ✓ Computer Networks                  ✓ System Design     ║
+║  ✓ Competitive Programming            ✓ Low-Latency Apps  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
 
 ## 🌐 **Connect With Me**
 
